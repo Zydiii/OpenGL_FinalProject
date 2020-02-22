@@ -1,0 +1,30 @@
+# Blender MTL File: 'Bomb_Export.blend'
+# Material Count: 2
+
+newmtl Fuze
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.050000 Normal.png
+map_Kd  Albedo.png
+map_Ks  Metal.png
+map_Ns  Rough.png
+
+newmtl Metal
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.050000 Normal.png
+map_Kd  Albedo.png
+map_Ks  Metal.png
+map_Ns  Rough.png
