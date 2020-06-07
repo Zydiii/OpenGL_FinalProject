@@ -21,3 +21,8 @@
 - 所用到的技术全部来自教程网站 https://learnopengl-cn.github.io/ 
 - 用到的部分模型及其贴图来自模型网站 https://free3d.com/zh/
 - 天空盒图片文件来自网站 http://www.custommapmakers.org/skyboxes.php
+
+## ISSUE
+
+- 希望遇到问题的伙伴先参考learnopengl教程网站（ https://learnopengl-cn.github.io/ ）进行环境配置，确保能够运行最基础的项目
+- 希望提出问题的伙伴能够附上截图，以及写明电脑环境
