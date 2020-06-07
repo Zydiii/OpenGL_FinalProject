@@ -7,6 +7,7 @@
 ## 项目内容
 
 主要完成的效果以及用到的技术、库、参考资料在 /file/大作业报告.pdf 已经一一列出，这里就不再赘述
+demo演示在b站 https://www.bilibili.com/video/BV19J411n76N
 
 ## 运行环境
 
