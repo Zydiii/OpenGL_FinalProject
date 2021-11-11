@@ -11,7 +11,7 @@
 
 ## 运行环境
 
-- 项目编写、运行以及测试均在Windows10上，语言主要为C++，使用的软件为Visual Studio2019
+- 项目编写、运行以及测试均在Windows10上，语言主要为C++，使用的软件为Visual Studio 2019，平台是 x86
 - 所有运行需要的配置文件以及库文件都在 /code/Libraries 中，并且在Visual Studio配置了相对路径，因此直接双击打开Project1.sln之后应该就能直接运行 
 
 ## 其他问题
