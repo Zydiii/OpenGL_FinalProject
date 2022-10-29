@@ -1,5 +1,5 @@
 #version 330 core
-out vec4 gl_FragColor;
+out vec4 FragColor;
 
 in vec3 TexCoords;
 in float time;
@@ -15,10 +15,10 @@ void main()
 	vec4 color =  texture(skybox, TexCoords);
     if (time == 0)
     {
-      gl_FragColor = color;
+      FragColor = color;
     }
     if (time > 0)
     {
-      gl_FragColor = mix(fogcolor, color, Fog);    
+      FragColor = mix(fogcolor, color, Fog);    
     }
 }
